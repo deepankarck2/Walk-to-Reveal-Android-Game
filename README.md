@@ -6,9 +6,13 @@ The motivation behind creating this game is to provide a unique and enjoyable ex
 
 
 ## Illustrations and Demo:
-I am planning to include a simple demo illustration soon. 
+I am planning to include a detailed demo illustration soon.
 
-## Tools Used
+<img src="https://user-images.githubusercontent.com/52084764/219100675-421f4e68-584d-426b-8a51-eebae72a408c.png" width="400px">
+
+
+## Tools Used!
+
 The following tools will be used to develop the Walk to Reveal game:
 * **Java** - I will use Java to develop the game logic and implement the gameplay mechanics.
 * **Android SDK** - The Android SDK will be used to develop the game for Android devices.
