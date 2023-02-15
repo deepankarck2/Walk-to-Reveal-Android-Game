@@ -10,10 +10,10 @@ I am planning to include a simple demo illustration soon.
 
 ## Tools Used
 The following tools will be used to develop the Walk to Reveal game:
-* Java - We will use Java to develop the game logic and implement the gameplay mechanics.
+* Java - I will use Java to develop the game logic and implement the gameplay mechanics.
 * Android SDK - The Android SDK will be used to develop the game for Android devices.
-* Google Maps API - We will use the Google Maps API to display the map and track the player's location.
-* Gradle - We will use Gradle to manage dependencies and build the game.
+* Google Maps API - I will use the Google Maps API to display the map and track the player's location.
+* Gradle - I will use Gradle to manage dependencies and build the game.
 
 ## Project Status
 The Walk to Reveal game is still under review and planning phase. I am currently working on the game design and mechanics. I will keep updating the repository with my progress, and we hope to release the game soon.
